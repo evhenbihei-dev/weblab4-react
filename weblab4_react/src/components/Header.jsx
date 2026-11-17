@@ -12,7 +12,7 @@ function Header({ theme, setTheme }) {
         {isDark ? '☀️ Денний режим' : '🌙 Нічний режим'}
       </button>
       <h1 className="text-4xl md:text-5xl font-extrabold mb-3 tracking-wide">Євген Бігей</h1>
-      <p className="text-lg md:text-xl text-blue-100 font-medium">Студент напряму "Кібербезпека" | Початківець розробник</p>
+      <p className="text-lg md:text-xl text-blue-100 font-medium">Студент напряму "Кібербезпека" | React-розробник"</p>
     </header>
   );
 }
